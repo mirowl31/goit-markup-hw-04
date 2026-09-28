@@ -1,0 +1,44 @@
+.team {
+    background: #f4f4fd;
+    padding: 120px 0;
+
+}
+
+.our-team {
+    font-weight: 700;
+    font-size: 36px;
+    text-align: center;
+    color: #2e2f42;
+    margin-bottom: 72px;
+}
+
+.workers {
+    background-color: #fff;
+    border-radius: 0 0 4px 4px;
+    width: calc((100% - 72px) / 4);
+}
+
+.workers-name {
+    font-weight: 500;
+    font-size: 20px;
+    text-align: center;
+    color: #2e2f42;
+    margin-bottom: 8px;
+}
+
+.workers-position {
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    color: #434455;
+}
+.team-list{
+    display: flex;
+    gap: 24px;
+}
+.workers-text{
+    padding: 32px 16px;
+}
+.workers-img{
+    display: block;
+}
